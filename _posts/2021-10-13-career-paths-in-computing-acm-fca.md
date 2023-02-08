@@ -2,10 +2,12 @@
 title:  "Career Paths in Computing"
 mathjax: false
 layout: post
-categories: acm
+categories: media
 ---
 
 <img src="https://github.com/ridhiaqua/ridhiaqua.github.io/blob/master/assets/images/career-paths/one.jpeg" alt="climbing" width="75%"/>
+
+
 
 While we all are well aware of the book, ‘Cracking the Coding Interview’ that serves as a bible for all in our pursuit of landing up with a desired job in the field of Computer Science and Information Technology, there isn’t still a resource that provides us a complete picture of how do people navigate their career journey in their workplaces after cracking the coding interviews. The Internet is flooded with MOOCs, industry specific certifications, corporate jargons and misnomers. Often, identifying and progressing towards the right kind of job profile can be challenging.
 
