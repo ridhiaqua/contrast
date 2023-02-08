@@ -5,7 +5,7 @@ layout: post
 categories: media
 ---
 
-<img src="https://github.com/ridhiaqua/ridhiaqua.github.io/blob/master/assets/images/career-paths/one.jpeg" alt="climbing" width="75%"/>
+<img src="/assets/images/career-paths/one.jpeg" alt="data" width="80%"/>
 
 
 
@@ -20,17 +20,17 @@ The ACM Future of Computing Academy collected data from 164 computing profession
 
 The respondents lived mostly in India and the United States, but other countries were represented as well.
 
-<img src="https://github.com/ridhiaqua/ridhiaqua.github.io/blob/master/assets/images/career-paths/two.png" alt="data" width="80%"/>
+<img src="/assets/images/career-paths/two.png" alt="data" width="80%"/>
 <em>Location of survey participants</em>
 
 As expected for a survey of computing professionals, the practitioner that identified as male made up 60% of the survey population.
 
-<img src="https://github.com/ridhiaqua/ridhiaqua.github.io/blob/master/assets/images/career-paths/three.png" alt="data" width="80%"/>
+<img src="/assets/images/career-paths/three.png" alt="data" width="80%"/>
 <em>Gender Identification of survey participants</em>
 
 The age distribution was mainly between 25 and 45 years, with very few responded over the age of 65.
 
-<img src="https://github.com/ridhiaqua/ridhiaqua.github.io/blob/master/assets/images/career-paths/four.png" alt="data" width="80%"/>
+<img src="/assets/images/career-paths/four.png" alt="data" width="80%"/>
 <em>Age distribution of survey participants</em>
 
 In the following paragraphs we are going to present some interesting data points found in our survey.
@@ -40,7 +40,7 @@ Changing of focus area
 
 One of the outstanding results we collected was when we asked computing professionals for their current job focus like Machine Learning, Full stack development and more. Over 78 percent of professionals have changed their focus when they changed jobs the last time. If compared to their previous three jobs, only 4.8 percent had the same focus throughout their last 4 positions.
 
-<img src="https://github.com/ridhiaqua/ridhiaqua.github.io/blob/master/assets/images/career-paths/five.png" alt="data" width="80%"/>
+<img src="/assets/images/career-paths/five.png" alt="data" width="80%"/>
 <em>Change of focus area when switching jobs</em>
 
 The reasons for changing were many, the biggest with 10.3 percent were an unhealthy work environment or losing interest in the work. 9.7 percent changed due to better salary and only 4.8 percent gave a bad work balance as a reason for leaving.
@@ -50,22 +50,22 @@ Switching Jobs
 
 Similarly almost 30 percent of computing professionals never switch jobs, while 33.2 percent changed their job in the last 4 years. Overall looking at the data, more than half of the surveyed computing professionals have worked less than 3 years in their current position.
 
-<img src="https://github.com/ridhiaqua/ridhiaqua.github.io/blob/master/assets/images/career-paths/six.png" alt="data" width="80%"/>
+<img src="/assets/images/career-paths/six.png" alt="data" width="80%"/>
 This changes slightly when taking the age of the participant into consideration.
 
-<img src="https://github.com/ridhiaqua/ridhiaqua.github.io/blob/master/assets/images/career-paths/seven.jpeg" alt="data" width="80%"/>
+<img src="/assets/images/career-paths/seven.jpeg" alt="data" width="80%"/>
 <em>Distribution of job change frequency split by age</em>
 
 As expected people that are younger have switched less often, or never. Most likely due to being in their first computing job. That changes the older the participants get. One point of note is that the frequency of job changes with age, the older people get, the less often they switch jobs. This could be due to more need for job security due to family needs or just finding a job they like. To be sure a more detailed survey is required.
 
 Looking at how long people have been in their current position paints a similar picture. More than half of the participants have been less than 3 years in their current position, which is no wonder looking at the high turnover rate in the computing industry. Due to those regular changes in position, most professionals have less than 3 years of experience with their current position.
 
-<img src="https://github.com/ridhiaqua/ridhiaqua.github.io/blob/master/assets/images/career-paths/eight.png" alt="data" width="80%"/>
+<img src="/assets/images/career-paths/eight.png" alt="data" width="80%"/>
 <em>Experience in current position of survey participants</em>
 
 Similarly a split by age group does not show many surprises. The younger the participants are, the less time they spend in their current position. Some remarkable answers that even with older age, there are always some participants who have been less than 3 years in their current position.
 
-<img src="https://github.com/ridhiaqua/ridhiaqua.github.io/blob/master/assets/images/career-paths/nine.jpeg" alt="data" width="80%"/>
+<img src="/assets/images/career-paths/nine.jpeg" alt="data" width="80%"/>
 <em>Experience in current position split by age</em>
 
 Job Satisfaction
@@ -73,7 +73,7 @@ Job Satisfaction
 
 As so many people keep changing positions, it could be assumed they are unhappy, but this is not the case, the average satisfaction on a scale of 1 (not satisfied at all) to 5 (completely satisfied) is 3.8 for all surveyed professionals. More than 50% spend 2 or less hours per week on computing-related projects and activities outside their job, meaning learning and experience gathering happens mostly on the job. Looking at the different areas people work in, the job satisfaction is around the average, no huge differences can be spotted.
 
-<img src="https://github.com/ridhiaqua/ridhiaqua.github.io/blob/master/assets/images/career-paths/ten.png" alt="data" width="80%"/>
+<img src="/assets/images/career-paths/ten.png" alt="data" width="80%"/>
 <em>Job satisfaction based on area</em>
 
 Education and certifications
