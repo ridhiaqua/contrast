@@ -1,6 +1,6 @@
 ---
-layout: page
-title: ""
+layout: default
+title: "Ridhi"
 ---
 
 Hello and welcome to my homepage. I am Ridhi, a software engineer with over 5 years of experience in the industry. With a passion for taking end-to-end ownership of my work, I have a proven track record of delivering high-quality products while working with cross-functional teams.
