@@ -1,11 +1,13 @@
 ---
 title:  "Grace Hopper Conference India 2018"
-mathjax: true
+mathjax: false
 layout: post
 categories: media
 ---
 
 <img src="/assets/images/GHCI-18/Screenshot 2023-02-08 at 23.15.58.png" alt="conference"/>
+
+
 
 2018 was my first time attending the Grace Hopper Conference (GHC), as well as my first time as a Delegate! 
 
